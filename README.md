@@ -9,13 +9,9 @@ In order to detect and predict e-banking phishing websites, we proposed an intel
 
 
 Team Members:
-
 Rajalingam K
-
 Rithik Kanishkar A
-
 Syed Ahamed Kabeer K R
-
 Naveed Ahamed A
 
 Languages Used:
